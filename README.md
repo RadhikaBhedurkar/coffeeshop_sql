@@ -34,6 +34,6 @@ The Coffee Shop SQL Project focuses on analyzing transactional sales data from a
 
 4.Strengthened expertise in data analysis, query optimization, and storytelling with SQL.
 
-Use joins, CTEs, subqueries, CASE statements, and window functions.
+5.Use joins, CTEs, subqueries, CASE statements, and window functions.
 
-Build views for management reports (e.g., revenue by category, customer segmentation).
+6.Build views for management reports (e.g., revenue by category, customer segmentation).
